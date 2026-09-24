@@ -17,13 +17,13 @@ Fui efetivado em **julho de 2025** como Desenvolvedor Full Stack Treinee.
 Participei de treinamentos que me deram a fundação para atuar no produto: **C#**, **testes unitários**, **planejamento**, **métodos ágeis**, **versionamento**, **SQL**, **relatórios com Stimulsoft e Reporting Services**, **princípios SOLID** e o funcionamento do próprio **ERP da empresa**.
 
 **Mês 3 - Gerenciador de Conexões API:**
-Desenvolvi, em **ASP.NET Core MVC**, uma ferramenta que realiza o **CRUD das connection strings** da API da empresa, manipulando diretamente o arquivo XML `web.config` (adicionar, editar e remover conexões). Hoje ela é **usada pelos colaboradores da Movere** no dia a dia.
+Desenvolvi, em **ASP.NET Core MVC**, uma ferramenta que realiza o **CRUD das connection strings** da API da empresa, manipulando diretamente o arquivo XML `web.config` (adicionar, editar e remover conexões). Hoje ela é **usada pelos colaboradores** no dia a dia.
 
 **Meses 4 a 6 - Time de Sob Medida:**
 Iniciei minha atuação no time de Sob Medida, desenvolvendo funcionalidades e soluções personalizadas de acordo com as necessidades específicas de cada cliente. Realizei melhorias no ERP utilizando **VB**, **C#**, **Web Forms** e **AngularJS**, além de desenvolver, ajustar e aprimorar relatórios gerenciais e operacionais com **SQL Server Reporting Services (SSRS)** e **Stimulsoft Reports**. No banco de dados **SQL Server**, trabalhei com a criação e manutenção de **Stored Procedures**, **Triggers** e consultas.
 
 **Meses 7 em diante - Time de Inovação:**
-Atuo no time de Inovação, responsável por criar e implementar novas soluções para o ERP. Participei do desenvolvimento da integração do WhatsApp ao sistema, utilizando a API oficial da Meta, com foco em automação de processos, melhoria do atendimento e apoio às vendas. No dia a dia, desenvolvo novas funcionalidades e melhorias, do back-end ao front-end, com **Angular 19**, **TypeScript**, **ASP.NET Core APIs**, **Webhooks** e **SignalR**.
+Atuo no time de Inovação, responsável por criar e implementar novas soluções para o ERP. Participei do desenvolvimento da integração do WhatsApp ao sistema, utilizando a API oficial da Meta, com foco em automação de processos, melhoria do atendimento e apoio às vendas.
 
 **Aprendizados:**
 Ao longo dessa trajetória, aprendi a trabalhar em equipe com **metodologias ágeis** e a acompanhar o ciclo completo de uma demanda no **Azure DevOps**: do planejamento e refinamento dos **itens** e **tasks** até a entrega, passando por homologações, documentação, check-ins e versionamento de código. Também tive contato com o ecossistema **Azure**, o que ampliou minha visão sobre desenvolvimento e entrega de soluções.
