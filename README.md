@@ -4,6 +4,22 @@ Sou estudante de Ciência da Computação (7/8) e trabalho como **Desenvolvedor 
 
 ---
 
+## 🛠️ Stack
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Web Forms](https://img.shields.io/badge/Web_Forms-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge\&logo=angularjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
 ## 🚀 Minha trajetória profissional
 
 ### Movere Software
@@ -29,23 +45,3 @@ Atuo no time de Inovação, responsável por criar e implementar novas soluçõe
 Ao longo dessa trajetória, aprendi a trabalhar em equipe com **metodologias ágeis** e a acompanhar o ciclo completo de uma demanda no **Azure DevOps**: do planejamento e refinamento dos **itens** e **tasks** até a entrega, passando por homologações, documentação, check-ins e versionamento de código. Também tive contato com o ecossistema **Azure**, o que ampliou minha visão sobre desenvolvimento e entrega de soluções.
 
 ---
-
-## 🛠️ Stack
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Web Forms](https://img.shields.io/badge/Web_Forms-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge\&logo=angularjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-## 📫 Contato
-
-[LinkedIn](https://linkedin.com/in/matheushgodoy) · [E-mail](mailto:matheusgodoycba@email.com)
